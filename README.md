@@ -6,9 +6,13 @@ Currently, I'm diving into blockchain technology to broaden my skillset and expl
 
 ## Tech Stack
 Frontend: React, Angular, JavaScript/TypeScript
+
 Backend: Node.js, Express, Hapi
+
 DevOps: Docker, Kubernetes, CI/CD, Terraform
+
 Exploring: Blockchain (Solidity, Web3.js, etc.)
+
 Feel free to check out my repos, contribute, or connect with me!
 
 [LinkedIn](https://www.linkedin.com/in/robert-kopec/)
