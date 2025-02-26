@@ -4,7 +4,7 @@ I'm a passionate software engineer with 5 years of experience in full-stack deve
 
 Currently, I'm diving into blockchain technology to broaden my skillset and explore decentralized solutions. This GitHub is where I share my projects, experiments, and learning journey—expect to see some exciting blockchain-based repos soon!
 
-## Tech Stack
+Tech Stack
 Frontend: React, Angular, JavaScript/TypeScript
 
 Backend: Node.js, Express, Hapi
@@ -12,7 +12,5 @@ Backend: Node.js, Express, Hapi
 DevOps: Docker, Kubernetes, CI/CD, Terraform
 
 Exploring: Blockchain (Solidity, Web3.js, etc.)
-
-Feel free to check out my repos, contribute, or connect with me!
 
 [LinkedIn](https://www.linkedin.com/in/robert-kopec/)
