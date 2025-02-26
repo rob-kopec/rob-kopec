@@ -1,4 +1,4 @@
-# Hello, I'm Rob Kopec 👋
+## Hello, I'm Rob Kopec 👋
 
 I'm a passionate software engineer with 5 years of experience in full-stack development, specializing in Node.js, React, and Angular. I love building scalable, user-focused applications and have a solid background in DevOps, including CI/CD pipelines, Docker, Kubernetes, and Terraform for infrastructure as code. I'm also a fan of Agile practices and collaborative problem-solving.
 
@@ -12,5 +12,7 @@ Backend: Node.js, Express, Hapi
 DevOps: Docker, Kubernetes, CI/CD, Terraform
 
 Exploring: Blockchain (Solidity, Web3.js, etc.)
+
+### Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/robert-kopec/)
